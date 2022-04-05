@@ -1,0 +1,5 @@
+Quel est manifestement son défaut vis-à-vis de la détection ?
+
+on compte plusieurs fois le meme flamant rose
+
+modifier les parametres et tester
